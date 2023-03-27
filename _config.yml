@@ -1,18 +1,18 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "PrintMeri Blog"
+author: "PrintMeri"
+description: "Bring the nostalgia alive with our vintage-analog inspired printables and retro wall art. Perfect for any home décor or special occasion, let us take you back in time." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
-#facebook_username: username
+email: "printmeri@gmail.com"
+twitter_username: "printmeri"
+github_username: "printmeri"
+#linkedin_username: "linkedinuser"
+facebook_username: printmeri
 #flickr_username: username
-#instagram_username: username
-#pinterest_username: username
-#youtube_username: username
+instagram_username: printmeri
+pinterest_username: printmeri
+youtube_username: printmeri
 #googleplus_username: +username
 
 #########################################################################################
